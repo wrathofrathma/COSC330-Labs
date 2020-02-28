@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">LAB02E4</string>
+    <string name="beef_radio">Beef Patty</string>
+    <string name="lamb_radio">Lamb Patty</string>
+    <string name="ostrich_radio">Ostrich Patty</string>
+    <string name="prosc_check">Prosciutto</string>
+    <string name="asiago_radio">Asiago Cheese</string>
+    <string name="creme_radio">Creme Fraiche</string>
+    <string name="caviar_text">Caviar sauce up to one teaspoon:</string>
+    <string name="calorie_text">Calories: </string>
+    <string name="calorie_val">0</string>
 </resources>

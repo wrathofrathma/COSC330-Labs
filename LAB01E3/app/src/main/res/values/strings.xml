@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LAB01E3</string>
+    <string name="button">Tap</string>
+    <string name="count">0</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LAB01E2</string>
+    <string name="button_text">Exclamation!</string>
+    <string name="main_text">Hello</string>
+    <string name="secondary_text">Goodbye!</string>
+</resources>
