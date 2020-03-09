@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LAB02E2</string>
+    <string name="topping_text">Choose Toppings:</string>
+    <string name="order_summary_label">Order Summary</string>
+    <string name="OrderButton">Order</string>
+    <string name="quantity_text">Quantity</string>
+    <string name="topping_chocolate">Chocolate</string>
+    <string name="topping_cream">Cream</string>
+</resources>
